@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="120260" started-at="2019-12-12T20:34:15Z" finished-at="2019-12-12T20:36:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="120260" started-at="2019-12-12T20:34:15Z" finished-at="2019-12-12T20:36:15Z">
+      <class name="com.AderantOmega.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@50f8360d]" name="setUp" is-config="true" duration-ms="6177" started-at="2019-12-12T20:36:07Z" finished-at="2019-12-12T20:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@50f8360d]" name="loginTest" duration-ms="1146" started-at="2019-12-12T20:36:13Z" finished-at="2019-12-12T20:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@50f8360d]" name="tearDown" is-config="true" duration-ms="375" started-at="2019-12-12T20:36:14Z" finished-at="2019-12-12T20:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AderantOmega.qa.testcases.LoginPageTest -->
+      <class name="com.AderantOmega.qa.testcases.CRMSFATest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@234bef66]" name="setup" is-config="true" duration-ms="21157" started-at="2019-12-12T20:34:15Z" finished-at="2019-12-12T20:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnCRMSFALinkTest()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@234bef66]" name="clickOnCRMSFALinkTest" duration-ms="8713" started-at="2019-12-12T20:34:36Z" finished-at="2019-12-12T20:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCRMSFALinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@234bef66]" name="tearDown" is-config="true" duration-ms="740" started-at="2019-12-12T20:34:44Z" finished-at="2019-12-12T20:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AderantOmega.qa.testcases.CRMSFATest -->
+      <class name="com.AderantOmega.qa.testcases.LeadsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="21184" started-at="2019-12-12T20:34:48Z" finished-at="2019-12-12T20:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateLead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="validateCreateLead" duration-ms="11241" started-at="2019-12-12T20:35:09Z" data-provider="getAderantOmegaTestData" finished-at="2019-12-12T20:35:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ LL-CTS02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Blue02]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Author02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateLead -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="tearDown" is-config="true" duration-ms="1233" started-at="2019-12-12T20:35:20Z" finished-at="2019-12-12T20:35:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="13297" started-at="2019-12-12T20:35:22Z" finished-at="2019-12-12T20:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateLead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="validateCreateLead" duration-ms="7876" started-at="2019-12-12T20:35:35Z" data-provider="getAderantOmegaTestData" finished-at="2019-12-12T20:35:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LL-Google02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Green02]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Author02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateLead -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="tearDown" is-config="true" duration-ms="1262" started-at="2019-12-12T20:35:43Z" finished-at="2019-12-12T20:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="11232" started-at="2019-12-12T20:35:44Z" finished-at="2019-12-12T20:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateLead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="validateCreateLead" duration-ms="10710" started-at="2019-12-12T20:35:55Z" data-provider="getAderantOmegaTestData" finished-at="2019-12-12T20:36:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LL-eBay02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yellow02]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Author02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateLead -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.LeadsPageTest@61dc03ce]" name="tearDown" is-config="true" duration-ms="1167" started-at="2019-12-12T20:36:06Z" finished-at="2019-12-12T20:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AderantOmega.qa.testcases.LeadsPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

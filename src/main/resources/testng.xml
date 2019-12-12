@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Aderant Omega Test Automation Test Suite">
+
+<listeners>
+	<listener class-name="com.AderantOmega.qa.ExtentReportListener.ExtentReporterNG"/>
+</listeners>
+ 	<test name="Aderant Omega App Test Cases">
+ 		<classes>
+ 			<class name="com.AderantOmega.qa.testcases.LoginPageTest" />
+ 			<class name="com.AderantOmega.qa.testcases.CRMSFATest" />
+ 			<class name="com.AderantOmega.qa.testcases.HomePageTest" />
+ 		</classes>
+ 	</test>
+</suite>
