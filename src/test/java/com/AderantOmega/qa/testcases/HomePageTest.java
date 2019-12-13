@@ -30,7 +30,7 @@ public class HomePageTest extends TestBase{
 		crmsfaPage.clickOnCRMSFALink();
 	}
 	
-	@Test(priority=1)
+	@Test(priority=1,retryAnalyzer=com.AderantOmega.qa.analyzer.RetryAnalyzer.class)
 	public void verifyHomePageTitleTest() {
 		
 		String homePageTitle=homePage.verifyHomePageTitle();
