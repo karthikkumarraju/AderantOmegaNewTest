@@ -2,84 +2,84 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Aderant Omega Test Automation Test Suite" duration-ms="73572" started-at="2019-12-12T20:05:11Z" finished-at="2019-12-12T20:06:24Z">
+  <suite name="Aderant Omega Test Automation Test Suite" duration-ms="72826" started-at="2019-12-23T15:41:42Z" finished-at="2019-12-23T15:42:55Z">
     <groups>
     </groups>
-    <test name="Aderant Omega App Test Cases" duration-ms="73572" started-at="2019-12-12T20:05:11Z" finished-at="2019-12-12T20:06:24Z">
+    <test name="Aderant Omega App Test Cases" duration-ms="72826" started-at="2019-12-23T15:41:42Z" finished-at="2019-12-23T15:42:55Z">
       <class name="com.AderantOmega.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@2f686d1f]" name="setUp" is-config="true" duration-ms="9654" started-at="2019-12-12T20:05:11Z" finished-at="2019-12-12T20:05:21Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@2f686d1f]" name="setUp" is-config="true" duration-ms="7351" started-at="2019-12-23T15:41:42Z" finished-at="2019-12-23T15:41:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@2f686d1f]" name="loginTest" duration-ms="1541" started-at="2019-12-12T20:05:21Z" finished-at="2019-12-12T20:05:22Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@2f686d1f]" name="loginTest" duration-ms="683" started-at="2019-12-23T15:41:50Z" finished-at="2019-12-23T15:41:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@2f686d1f]" name="tearDown" is-config="true" duration-ms="1046" started-at="2019-12-12T20:05:22Z" finished-at="2019-12-12T20:05:23Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.LoginPageTest@2f686d1f]" name="tearDown" is-config="true" duration-ms="250" started-at="2019-12-23T15:41:50Z" finished-at="2019-12-23T15:41:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AderantOmega.qa.testcases.LoginPageTest -->
       <class name="com.AderantOmega.qa.testcases.CRMSFATest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@3fee9989]" name="setup" is-config="true" duration-ms="7349" started-at="2019-12-12T20:05:23Z" finished-at="2019-12-12T20:05:31Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@3fee9989]" name="setup" is-config="true" duration-ms="5167" started-at="2019-12-23T15:41:51Z" finished-at="2019-12-23T15:41:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="clickOnCRMSFALinkTest()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@3fee9989]" name="clickOnCRMSFALinkTest" duration-ms="6223" started-at="2019-12-12T20:05:31Z" finished-at="2019-12-12T20:05:37Z">
+        <test-method status="PASS" signature="clickOnCRMSFALinkTest()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@3fee9989]" name="clickOnCRMSFALinkTest" duration-ms="6585" started-at="2019-12-23T15:41:56Z" finished-at="2019-12-23T15:42:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnCRMSFALinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@3fee9989]" name="tearDown" is-config="true" duration-ms="2612" started-at="2019-12-12T20:05:37Z" finished-at="2019-12-12T20:05:39Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.CRMSFATest@3fee9989]" name="tearDown" is-config="true" duration-ms="2137" started-at="2019-12-23T15:42:02Z" finished-at="2019-12-23T15:42:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AderantOmega.qa.testcases.CRMSFATest -->
       <class name="com.AderantOmega.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="10256" started-at="2019-12-12T20:05:39Z" finished-at="2019-12-12T20:05:50Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="7931" started-at="2019-12-23T15:42:05Z" finished-at="2019-12-23T15:42:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="verifyHomePageTitleTest" duration-ms="124" started-at="2019-12-12T20:05:50Z" finished-at="2019-12-12T20:05:50Z">
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="verifyHomePageTitleTest" duration-ms="52" started-at="2019-12-23T15:42:13Z" finished-at="2019-12-23T15:42:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="694" started-at="2019-12-12T20:05:50Z" finished-at="2019-12-12T20:05:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="681" started-at="2019-12-23T15:42:13Z" finished-at="2019-12-23T15:42:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="11314" started-at="2019-12-12T20:05:50Z" finished-at="2019-12-12T20:06:02Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="15661" started-at="2019-12-23T15:42:13Z" finished-at="2019-12-23T15:42:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="clickOnMyHomeTabTest()[pri:2, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="clickOnMyHomeTabTest" duration-ms="1816" started-at="2019-12-12T20:06:02Z" finished-at="2019-12-12T20:06:04Z">
+        <test-method status="PASS" signature="clickOnMyHomeTabTest()[pri:2, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="clickOnMyHomeTabTest" duration-ms="1418" started-at="2019-12-23T15:42:29Z" finished-at="2019-12-23T15:42:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnMyHomeTabTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="728" started-at="2019-12-12T20:06:04Z" finished-at="2019-12-12T20:06:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="801" started-at="2019-12-23T15:42:30Z" finished-at="2019-12-23T15:42:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="8662" started-at="2019-12-12T20:06:04Z" finished-at="2019-12-12T20:06:13Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="10846" started-at="2019-12-23T15:42:31Z" finished-at="2019-12-23T15:42:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyMyHomeTitle()[pri:3, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="verifyMyHomeTitle" duration-ms="234" started-at="2019-12-12T20:06:13Z" finished-at="2019-12-12T20:06:13Z">
+        <test-method status="PASS" signature="verifyMyHomeTitle()[pri:3, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="verifyMyHomeTitle" duration-ms="289" started-at="2019-12-23T15:42:42Z" finished-at="2019-12-23T15:42:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMyHomeTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="706" started-at="2019-12-12T20:06:13Z" finished-at="2019-12-12T20:06:14Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="708" started-at="2019-12-23T15:42:42Z" finished-at="2019-12-23T15:42:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="8282" started-at="2019-12-12T20:06:14Z" finished-at="2019-12-12T20:06:22Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="9141" started-at="2019-12-23T15:42:43Z" finished-at="2019-12-23T15:42:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="clickOnLeadsTabTest()[pri:4, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="clickOnLeadsTabTest" duration-ms="1524" started-at="2019-12-12T20:06:22Z" finished-at="2019-12-12T20:06:24Z">
+        <test-method status="PASS" signature="clickOnLeadsTabTest()[pri:4, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="clickOnLeadsTabTest" duration-ms="2279" started-at="2019-12-23T15:42:52Z" finished-at="2019-12-23T15:42:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnLeadsTabTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="729" started-at="2019-12-12T20:06:24Z" finished-at="2019-12-12T20:06:24Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AderantOmega.qa.testcases.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="769" started-at="2019-12-23T15:42:54Z" finished-at="2019-12-23T15:42:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
